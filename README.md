@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdgns12&show_icons=true&theme=swift)
 
 <!---
 akdgns12/akdgns12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
