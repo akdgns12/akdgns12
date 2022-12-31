@@ -38,12 +38,9 @@ SSAFY (Samsung) 2022.07 ~ <br>
 
 </div>
 <!—
-**JODONG2/JODONG2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akdgns12/akdgns12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdgns12&show_icons=true&theme=bear)
 <!---
 akdgns12/akdgns12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
